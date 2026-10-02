@@ -25,7 +25,7 @@
 <a href="https://www.youtube.com/playlist?list=PLbRnQDwkJSpA"><img src="https://64.media.tumblr.com/50f20c303b9e97b161d34873d82fa139/4ffca3aa48f34f3a-1f/s100x200/62ecf92720099a8e9f9be034de19bb75b9c506f6.pnj"></a>
 <br>
 <p align="center">
-<a href="https://www.youtube.com/playlist?list=PL6SzSsjrU-r4eNRRrKCoykEkqiz6WsvSU"></a><img src="https://64.media.tumblr.com/10df506a89a9ffb587bdb6fee6e81bab/1aebd1ebfc7eb392-8a/s400x600/4c3b4d3e392e74b15ee6a421497053766feedb5e.gifv"></a>
+<a href="https://www.youtube.com/playlist?list=PL6SzSsjrU-r4eNRRrKCoykEkqiz6WsvSU"><img src="https://64.media.tumblr.com/10df506a89a9ffb587bdb6fee6e81bab/1aebd1ebfc7eb392-8a/s400x600/4c3b4d3e392e74b15ee6a421497053766feedb5e.gifv"></a>
 
 <br>
 <p align="center"> 
